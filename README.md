@@ -1,5 +1,5 @@
 # SparkMLib_ALS_CommodityRecommendation
- SparkMLib ALS(Writed by Scala) used in commodity recommendation
+ SparkMLib ALS(Writed by Scala&Java) used in commodity recommendation system
 
  
 ## 概述
